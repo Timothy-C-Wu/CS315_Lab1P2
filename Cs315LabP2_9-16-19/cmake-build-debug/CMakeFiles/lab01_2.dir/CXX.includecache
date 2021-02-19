@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/twu's home/Cs315LabP2_9-16-19/TagParser.cpp
+TagParser.hpp
+/Volumes/twu's home/Cs315LabP2_9-16-19/TagParser.hpp
+iostream
+-
+vector
+-
+
+/Volumes/twu's home/Cs315LabP2_9-16-19/TagParser.hpp
+string
+-
+vector
+-
+Tokenizer.hpp
+/Volumes/twu's home/Cs315LabP2_9-16-19/Tokenizer.hpp
+map
+-
+
+/Volumes/twu's home/Cs315LabP2_9-16-19/Token.hpp
+string
+-
+
+/Volumes/twu's home/Cs315LabP2_9-16-19/Tokenizer.hpp
+string
+-
+fstream
+-
+Token.hpp
+/Volumes/twu's home/Cs315LabP2_9-16-19/Token.hpp
+

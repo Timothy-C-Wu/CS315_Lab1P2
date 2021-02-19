@@ -1,0 +1,3 @@
+/Volumes/twu's home/Cs315LabP2_9-16-19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/twu's home/Cs315LabP2_9-16-19/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/twu's home/Cs315LabP2_9-16-19/cmake-build-debug/CMakeFiles/lab01_2.dir
